@@ -1,9 +1,11 @@
 import React from 'react'
 
-export default function Journal() {
+const Journal = () => {
     return (
         <div>
             
         </div>
     )
 }
+
+export default Journal

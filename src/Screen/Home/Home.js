@@ -1,9 +1,14 @@
 import React from 'react'
+import StyledHeader  from '../../Components/Styles/Header.styled'
+import Navbar from '../../Components/Navbar/Navbar'
 
-export default function Home() {
+
+const Home = () => {
     return (
-        <div>
-            
-        </div>
+        <StyledHeader>
+            <Navbar/>
+        </StyledHeader>
     )
 }
+
+export default Home

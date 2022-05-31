@@ -1,9 +1,11 @@
 import React from 'react'
 
-export default function Nutrition() {
+const Nutrition = () => {
     return (
         <div>
             
         </div>
     )
 }
+
+export default Nutrition

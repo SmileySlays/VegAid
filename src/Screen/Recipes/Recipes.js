@@ -1,9 +1,11 @@
 import React from 'react'
 
-export default function Recipes() {
+const Recipes = () => {
     return (
         <div>
             
         </div>
     )
 }
+
+export default Recipes

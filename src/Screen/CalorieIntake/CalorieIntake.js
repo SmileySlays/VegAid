@@ -1,9 +1,12 @@
 import React from 'react'
 
-export default function CalorieIntake() {
+const CalorieIntake = () => {
     return (
         <div>
             
         </div>
     )
 }
+
+export default CalorieIntake
+
